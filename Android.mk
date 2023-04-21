@@ -16,6 +16,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter TB8703 TB8704 TBX704 TB8504 TBX304,$(TARGET_DEVICE)),)
+ifneq ($(filter TB8703 TB8704 TBX704 TB8504 TBX304 X504F,$(TARGET_DEVICE)),)
 
 endif
